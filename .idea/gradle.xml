@@ -19,6 +19,18 @@
             <option value="$PROJECT_DIR$/Topics/Overview of the basic program/The eternal truth" />
             <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Theory" />
             <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Your name" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/An incorrect line" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Declaring a mutable variable" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Declaring an immutable variable" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Fix declarations" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Statements (1)" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Swap" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/The assignment operator" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/The name of a variable" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/Very Big Number" />
+            <option value="$PROJECT_DIR$/Topics/Values and variables/What is the value of a variable" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
