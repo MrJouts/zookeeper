@@ -1,6 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel target="11" />
+    <bytecodeTargetLevel target="17">
+      <module name="Zookeeper.Topics-Data_types-Edit_it.main" target="11" />
+      <module name="Zookeeper.Topics-Data_types-Equivalent.main" target="11" />
+      <module name="Zookeeper.Topics-Data_types-Fill_in_the_type.main" target="11" />
+      <module name="Zookeeper.Topics-Data_types-Fix_the_program.main" target="11" />
+      <module name="Zookeeper.Topics-Data_types-How_to_declare_a_type.main" target="11" />
+      <module name="Zookeeper.Topics-Data_types-How_to_declare_a_type__1_.main" target="11" />
+      <module name="Zookeeper.Topics-Data_types-Legitimate_literals.main" target="11" />
+      <module name="Zookeeper.Topics-Data_types-Statements.main" target="11" />
+      <module name="Zookeeper.Topics-Data_types-The_form_of_declaration_without_type_inference.main" target="11" />
+      <module name="Zookeeper.Topics-Data_types-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Data_types-Think_as_a_compiler.main" target="11" />
+      <module name="Zookeeper.Topics-Data_types-Type_mismatch.main" target="11" />
+      <module name="Zookeeper.Topics-Data_types-Type_mismatch__1_.main" target="11" />
+      <module name="Zookeeper.Topics-Data_types-What_is_type_inference.main" target="11" />
+      <module name="Zookeeper.Topics-Invoking_functions-Correct_statements.main" target="11" />
+      <module name="Zookeeper.Topics-Invoking_functions-Lembas.main" target="11" />
+      <module name="Zookeeper.Topics-Invoking_functions-Square_root.main" target="11" />
+      <module name="Zookeeper.Topics-Invoking_functions-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Overview_of_the_basic_program-Application.main" target="11" />
+      <module name="Zookeeper.Topics-Overview_of_the_basic_program-Find_a_keyword.main" target="11" />
+      <module name="Zookeeper.Topics-Overview_of_the_basic_program-I_like_Kotlin.main" target="11" />
+      <module name="Zookeeper.Topics-Overview_of_the_basic_program-Multiple_statements.main" target="11" />
+      <module name="Zookeeper.Topics-Overview_of_the_basic_program-Name_of_an_entry_point.main" target="11" />
+      <module name="Zookeeper.Topics-Overview_of_the_basic_program-The_eternal_truth.main" target="11" />
+      <module name="Zookeeper.Topics-Overview_of_the_basic_program-The_Hello_World_program.main" target="11" />
+      <module name="Zookeeper.Topics-Overview_of_the_basic_program-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Overview_of_the_basic_program-Your_name.main" target="11" />
+      <module name="Zookeeper.Topics-Standard_output-Correct_the_code.main" target="11" />
+      <module name="Zookeeper.Topics-Standard_output-First,_second,_third.main" target="11" />
+      <module name="Zookeeper.Topics-Standard_output-Print_a_triangle.main" target="11" />
+      <module name="Zookeeper.Topics-Standard_output-Print_code.main" target="11" />
+      <module name="Zookeeper.Topics-Standard_output-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Standard_output-Tic-Tac-Toe.main" target="11" />
+      <module name="Zookeeper.Topics-Values_and_variables-An_incorrect_line.main" target="11" />
+      <module name="Zookeeper.Topics-Values_and_variables-Declaring_a_mutable_variable.main" target="11" />
+      <module name="Zookeeper.Topics-Values_and_variables-Declaring_an_immutable_variable.main" target="11" />
+      <module name="Zookeeper.Topics-Values_and_variables-Fix_declarations.main" target="11" />
+      <module name="Zookeeper.Topics-Values_and_variables-Statements.main" target="11" />
+      <module name="Zookeeper.Topics-Values_and_variables-Statements__1_.main" target="11" />
+      <module name="Zookeeper.Topics-Values_and_variables-Swap.main" target="11" />
+      <module name="Zookeeper.Topics-Values_and_variables-The_assignment_operator.main" target="11" />
+      <module name="Zookeeper.Topics-Values_and_variables-The_name_of_a_variable.main" target="11" />
+      <module name="Zookeeper.Topics-Values_and_variables-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Values_and_variables-Very_Big_Number.main" target="11" />
+      <module name="Zookeeper.Topics-Values_and_variables-What_is_the_value_of_a_variable.main" target="11" />
+      <module name="Zookeeper.util.main" target="11" />
+      <module name="Zookeeper.Zookeeper-task.main" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>

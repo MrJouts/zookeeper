@@ -5,6 +5,7 @@
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
         <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
         <option name="distributionType" value="WRAPPED" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
         <option name="modules">
@@ -55,6 +56,7 @@
             <option value="$PROJECT_DIR$/Topics/Values and variables/Theory" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/Very Big Number" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/What is the value of a variable" />
+            <option value="$PROJECT_DIR$/Zookeeper/task" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
