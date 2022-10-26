@@ -45,6 +45,10 @@
       <module name="Zookeeper.Topics-Standard_output-Print_code.main" target="11" />
       <module name="Zookeeper.Topics-Standard_output-Theory.main" target="11" />
       <module name="Zookeeper.Topics-Standard_output-Tic-Tac-Toe.main" target="11" />
+      <module name="Zookeeper.Topics-The_classification_of_basic_types-Existing_types.main" target="11" />
+      <module name="Zookeeper.Topics-The_classification_of_basic_types-Max_values_of_integer_types.main" target="11" />
+      <module name="Zookeeper.Topics-The_classification_of_basic_types-Size,_min_and_max.main" target="11" />
+      <module name="Zookeeper.Topics-The_classification_of_basic_types-Theory.main" target="11" />
       <module name="Zookeeper.Topics-Values_and_variables-An_incorrect_line.main" target="11" />
       <module name="Zookeeper.Topics-Values_and_variables-Declaring_a_mutable_variable.main" target="11" />
       <module name="Zookeeper.Topics-Values_and_variables-Declaring_an_immutable_variable.main" target="11" />
