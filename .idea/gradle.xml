@@ -11,6 +11,12 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Topics/Boolean and logical operations/Buy a car" />
+            <option value="$PROJECT_DIR$/Topics/Boolean and logical operations/Go to the store" />
+            <option value="$PROJECT_DIR$/Topics/Boolean and logical operations/Invitations and gifts" />
+            <option value="$PROJECT_DIR$/Topics/Boolean and logical operations/Program a Boolean function" />
+            <option value="$PROJECT_DIR$/Topics/Boolean and logical operations/The OR operator" />
+            <option value="$PROJECT_DIR$/Topics/Boolean and logical operations/Theory" />
             <option value="$PROJECT_DIR$/Topics/Data types/Edit it" />
             <option value="$PROJECT_DIR$/Topics/Data types/Equivalent" />
             <option value="$PROJECT_DIR$/Topics/Data types/Fill in the type" />
