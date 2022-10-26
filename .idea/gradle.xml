@@ -38,6 +38,16 @@
             <option value="$PROJECT_DIR$/Topics/Overview of the basic program/The eternal truth" />
             <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Theory" />
             <option value="$PROJECT_DIR$/Topics/Overview of the basic program/Your name" />
+            <option value="$PROJECT_DIR$/Topics/Standard input/A function for reading data" />
+            <option value="$PROJECT_DIR$/Topics/Standard input/Four numbers" />
+            <option value="$PROJECT_DIR$/Topics/Standard input/Printing each word in a new line" />
+            <option value="$PROJECT_DIR$/Topics/Standard input/Read and print" />
+            <option value="$PROJECT_DIR$/Topics/Standard input/Scanner" />
+            <option value="$PROJECT_DIR$/Topics/Standard input/Statements" />
+            <option value="$PROJECT_DIR$/Topics/Standard input/Successful reading" />
+            <option value="$PROJECT_DIR$/Topics/Standard input/Successful reading (1)" />
+            <option value="$PROJECT_DIR$/Topics/Standard input/The suitable inputs" />
+            <option value="$PROJECT_DIR$/Topics/Standard input/Theory" />
             <option value="$PROJECT_DIR$/Topics/Standard output/Correct the code" />
             <option value="$PROJECT_DIR$/Topics/Standard output/First, second, third" />
             <option value="$PROJECT_DIR$/Topics/Standard output/Print a triangle" />
@@ -57,6 +67,10 @@
             <option value="$PROJECT_DIR$/Topics/Values and variables/Very Big Number" />
             <option value="$PROJECT_DIR$/Topics/Values and variables/What is the value of a variable" />
             <option value="$PROJECT_DIR$/Zookeeper/task" />
+            <option value="$PROJECT_DIR$/Zookeeper/task/build/classes/kotlin" />
+            <option value="$PROJECT_DIR$/Zookeeper/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Zookeeper/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Zookeeper/task/build/tmp" />
             <option value="$PROJECT_DIR$/util" />
           </set>
         </option>
