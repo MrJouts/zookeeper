@@ -63,6 +63,20 @@
       <module name="Zookeeper.Topics-Reading_data_with_a_readln-Reversed_output.main" target="11" />
       <module name="Zookeeper.Topics-Reading_data_with_a_readln-Theory.main" target="11" />
       <module name="Zookeeper.Topics-Reading_data_with_a_readln-toDouble__.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Are_the_numbers_different.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Boys_in_the_sport_class.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Check_the_sum.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Check_the_value.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Check_the_value__1_.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Exactly_one_parameter_is_positive.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Existing_operators.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Find_a_suitable_input.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Groundhogs_at_the_party.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Inbetween.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Job_offer.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-What_is_the_result.main" target="11" />
+      <module name="Zookeeper.Topics-Relational_operators-When_the_result_is_true.main" target="11" />
       <module name="Zookeeper.Topics-Standard_input-A_function_for_reading_data.main" target="11" />
       <module name="Zookeeper.Topics-Standard_input-Four_numbers.main" target="11" />
       <module name="Zookeeper.Topics-Standard_input-Printing_each_word_in_a_new_line.main" target="11" />
