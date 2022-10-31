@@ -22,6 +22,24 @@
       <module name="Zookeeper.Topics-Data_types-Type_mismatch.main" target="11" />
       <module name="Zookeeper.Topics-Data_types-Type_mismatch__1_.main" target="11" />
       <module name="Zookeeper.Topics-Data_types-What_is_type_inference.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Apple_pie.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Desks.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Divide_nuts_equally_between_squirrels.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Good_rest_on_vacation.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-How_many_nuts_will_be_left_after_division.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Integer division.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Next_even_number.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Reversing_a_number.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-The_first_digit_of_a_two-digit_number.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-The_last_digit_of_a_number.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-The_number_of_tens.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-The_sum_of_digits.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Time_difference.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Time_format.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Underscore.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Underscore__1_.main" target="11" />
+      <module name="Zookeeper.Topics-Integers_in_action-Unsigned_integers.main" target="11" />
       <module name="Zookeeper.Topics-Invoking_functions-Correct_statements.main" target="11" />
       <module name="Zookeeper.Topics-Invoking_functions-Lembas.main" target="11" />
       <module name="Zookeeper.Topics-Invoking_functions-Square_root.main" target="11" />
