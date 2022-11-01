@@ -8,6 +8,10 @@
       <module name="Zookeeper.Topics-Boolean_and_logical_operations-Program_a_Boolean_function.main" target="11" />
       <module name="Zookeeper.Topics-Boolean_and_logical_operations-The_OR_operator.main" target="11" />
       <module name="Zookeeper.Topics-Boolean_and_logical_operations-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Characters-Comparing_numbers_and_characters.main" target="11" />
+      <module name="Zookeeper.Topics-Characters-Digits_or_not.main" target="11" />
+      <module name="Zookeeper.Topics-Characters-Previous_character.main" target="11" />
+      <module name="Zookeeper.Topics-Characters-Theory.main" target="11" />
       <module name="Zookeeper.Topics-Data_types-Edit_it.main" target="11" />
       <module name="Zookeeper.Topics-Data_types-Equivalent.main" target="11" />
       <module name="Zookeeper.Topics-Data_types-Fill_in_the_type.main" target="11" />
