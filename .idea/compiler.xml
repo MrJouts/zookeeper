@@ -44,6 +44,17 @@
       <module name="Zookeeper.Topics-Integers_in_action-Underscore.main" target="11" />
       <module name="Zookeeper.Topics-Integers_in_action-Underscore__1_.main" target="11" />
       <module name="Zookeeper.Topics-Integers_in_action-Unsigned_integers.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-Equal_lists.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-Initializing_a_list.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-Initializing_a_mutable_list_of_characters.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-Initializing_a_mutable_list_of_integers.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-Initializing_a_mutable_list_of_longs.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-Printing_the_last_element.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-Right_ways_to_create_mutable_lists.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-Swap.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-The_first_element_of_a_list.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-The_last_element_of_a_list.main" target="11" />
+      <module name="Zookeeper.Topics-Introduction_to_MutableList-Theory.main" target="11" />
       <module name="Zookeeper.Topics-Invoking_functions-Correct_statements.main" target="11" />
       <module name="Zookeeper.Topics-Invoking_functions-Lembas.main" target="11" />
       <module name="Zookeeper.Topics-Invoking_functions-Square_root.main" target="11" />
