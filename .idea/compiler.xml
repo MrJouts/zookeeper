@@ -107,6 +107,16 @@
       <module name="Zookeeper.Topics-Relational_operators-Theory.main" target="11" />
       <module name="Zookeeper.Topics-Relational_operators-What_is_the_result.main" target="11" />
       <module name="Zookeeper.Topics-Relational_operators-When_the_result_is_true.main" target="11" />
+      <module name="Zookeeper.Topics-Repeating_blocks-Counting_positive_numbers.main" target="11" />
+      <module name="Zookeeper.Topics-Repeating_blocks-Grades.main" target="11" />
+      <module name="Zookeeper.Topics-Repeating_blocks-How_many_times_it_repeats.main" target="11" />
+      <module name="Zookeeper.Topics-Repeating_blocks-Increment_in_loop.main" target="11" />
+      <module name="Zookeeper.Topics-Repeating_blocks-Kotlin_x5.main" target="11" />
+      <module name="Zookeeper.Topics-Repeating_blocks-Maximum_element_divisible_by_4.main" target="11" />
+      <module name="Zookeeper.Topics-Repeating_blocks-Print_a_string_exactly_ten_times.main" target="11" />
+      <module name="Zookeeper.Topics-Repeating_blocks-Repeat_by_value.main" target="11" />
+      <module name="Zookeeper.Topics-Repeating_blocks-Size_of_parts.main" target="11" />
+      <module name="Zookeeper.Topics-Repeating_blocks-Theory.main" target="11" />
       <module name="Zookeeper.Topics-Standard_input-A_function_for_reading_data.main" target="11" />
       <module name="Zookeeper.Topics-Standard_input-Four_numbers.main" target="11" />
       <module name="Zookeeper.Topics-Standard_input-Printing_each_word_in_a_new_line.main" target="11" />
