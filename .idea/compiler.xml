@@ -26,6 +26,14 @@
       <module name="Zookeeper.Topics-Data_types-Type_mismatch.main" target="11" />
       <module name="Zookeeper.Topics-Data_types-Type_mismatch__1_.main" target="11" />
       <module name="Zookeeper.Topics-Data_types-What_is_type_inference.main" target="11" />
+      <module name="Zookeeper.Topics-Equality-Equality.main" target="11" />
+      <module name="Zookeeper.Topics-Equality-How_to_compare.main" target="11" />
+      <module name="Zookeeper.Topics-Equality-How_to_compare__1_.main" target="11" />
+      <module name="Zookeeper.Topics-Equality-Kings_of_Sweden.main" target="11" />
+      <module name="Zookeeper.Topics-Equality-Referential_equality.main" target="11" />
+      <module name="Zookeeper.Topics-Equality-The_same_object.main" target="11" />
+      <module name="Zookeeper.Topics-Equality-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-Equality-True_captain.main" target="11" />
       <module name="Zookeeper.Topics-If_expression-Check_a_number_is_positive.main" target="11" />
       <module name="Zookeeper.Topics-If_expression-Find_the_output.main" target="11" />
       <module name="Zookeeper.Topics-If_expression-Find_the_output__1_.main" target="11" />
