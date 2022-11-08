@@ -173,6 +173,19 @@
       <module name="Zookeeper.Topics-Values_and_variables-Theory.main" target="11" />
       <module name="Zookeeper.Topics-Values_and_variables-Very_Big_Number.main" target="11" />
       <module name="Zookeeper.Topics-Values_and_variables-What_is_the_value_of_a_variable.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-Balance_checker.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-Bank_interest_calculation.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-Choose_the_correct_ones.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-Collatz_conjecture.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-Squares_of_natural_numbers.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-The_first_position_of_the_largest_element.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-The_largest_element.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-The_length_of_the_sequence.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-The_sequence_1_2_2_3_3_3.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-The_sum_of_elements.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-Theory.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-What_does_the_code_print.main" target="11" />
+      <module name="Zookeeper.Topics-While_loops-What_does_the_code_print__1_.main" target="11" />
       <module name="Zookeeper.util.main" target="11" />
       <module name="Zookeeper.Zookeeper-task-build-classes-kotlin.main" target="11" />
       <module name="Zookeeper.Zookeeper-task-build-reports-tests.main" target="11" />
