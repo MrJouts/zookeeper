@@ -116,5 +116,17 @@ It looks like we will soon have more rabbits!"""
 val animals = arrayOf(camel, lion, deer, goose, bat, rabbit)
 
 fun main() {
-    // write yor code here
+    var exit = false
+    while (!exit) {
+        println("Please enter the number of the habitat you would like to view:")
+        val index = readln()
+
+        if (index == "exit") {
+            exit = false
+            println("See you later!")
+        } else {
+            println(animals[index.toInt()])
+        }
+
+    }
 }
